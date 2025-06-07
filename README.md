@@ -1,12 +1,13 @@
 🌿 Fruitables - Organic Vegetable & Fruit Website Template
 Fruitables is a responsive and modern HTML template designed for businesses selling organic vegetables, fruits, and related grocery items. This template includes a variety of pages to support e-commerce functionality such as product listings, product details, cart, checkout, and customer testimonials.
 
+```
 Fruitables/
 ├── index.html             # Home page
 ├── shop.html              # Shop listing page
 ├── shop-detail.html       # Product detail page
 ├── cart.html              # Shopping cart
-├── chackout.html          # Checkout form (typo: should be checkout.html)
+├── checkout.html          # Checkout form (renamed from chackout.html)
 ├── testimonial.html       # Customer testimonials
 ├── contact.html           # Contact form page
 ├── 404.html               # Custom 404 error page
@@ -16,6 +17,7 @@ Fruitables/
 │   ├── lightbox/          # Lightbox plugin files
 │   └── owlcarousel/       # Carousel plugin files
 └── img/                   # Image assets (product images, hero images, etc.)
+```
 
 
 🛠 Features
