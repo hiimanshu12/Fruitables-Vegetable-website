@@ -14,9 +14,9 @@ Fruitables
 ├── css/
 │   └── style.css          # Main stylesheet
 ├── lib/
-│   ├── lightbox          # Lightbox JS and CSS
-│   └── owlcarousel       # Carousel assets
-└── img                   # Image assets
+│   ├── lightbox/         # Lightbox JS and CSS
+│   └── owlcarousel/       # Carousel assets
+└── img/                   # Image assets
 
 🛠 Features
 🏠 Home Page: Hero section, product highlights, and categories.
